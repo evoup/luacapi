@@ -1,4 +1,4 @@
-name="evoupÈÌ"
+name="evoupå¿"
 age=29
 print "hello from LUA";
 function testfun ()
